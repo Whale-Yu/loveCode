@@ -1,13 +1,13 @@
 # 爱心代码
 
-## 介绍
+## 仓库介绍
 
 此项目旨在收集和分享各种与爱心主题相关的代码示例，包括前端（HTML、CSS、JavaScript）、Python等语言。通过这些代码示例，希望能帮助开发者更好地表达和传递爱心与情感。
 
-## 资源一（001/文件夹）
-| 代码                                                                                      | 代码类型   | 预览图                              | 演示                                                                     |
+## 1.资源一（001/文件夹）
+| 代码路径                                                                                    | 代码类型   | 预览图                              | 演示                                                                     |
 |-----------------------------------------------------------------------------------------|--------|----------------------------------|------------------------------------------------------------------------|
-| [01](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/01)                 | HTML   | <img src="001/html_love/01/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/01/index.html) |
+| [001/html_love/01](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/01)                 | HTML   | <img src="001/html_love/01/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/01/index.html) |
 | [02](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/02)                 | Python | <img src="001/html_love/02/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/02/index.htm) |
 | [03](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/03)                 | HTML   | <img src="001/html_love/03/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/03/index.html) |
 | [04](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/04)                 | HTML   | <img src="001/html_love/04/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/04/index.html) |
@@ -27,3 +27,13 @@
 | [18](https://github.com/Whale-Yu/loveCode/tree/master/001/py_love/情人节表白2.py)            | Python | <img src="001/py_love/情人节表白2.png" width="200"/>   | 下载代码本地运行即可                                                              |
 | [19](https://github.com/Whale-Yu/loveCode/tree/master/001/py_love/送一朵玫瑰花.py)            | Python | <img src="001/py_love/送一朵玫瑰花.png" width="200"/>   | 下载代码本地运行即可                                                              |
 
+
+## 2.资源二（002）
+
+## 技术支持
+
+如果在运行python或部署前端代码有任何问题时
+
+欢迎咨询：2944582448（q）
+
+技术支持不无偿，带诚意来~
