@@ -8,7 +8,7 @@
 | 代码路径                                                                                                   | 代码类型   | 预览图                              | 演示                                                                     |
 |--------------------------------------------------------------------------------------------------------|--------|----------------------------------|------------------------------------------------------------------------|
 | [001/html_love/01](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/01)                  | HTML   | <img src="001/html_love/01/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/01/index.html) |
-| [001/html_love/02](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/02)                  | Python | <img src="001/html_love/02/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/02/index.htm) |
+| [001/html_love/02](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/02)                  | HTML | <img src="001/html_love/02/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/02/index.htm) |
 | [001/html_love/03](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/03)                  | HTML   | <img src="001/html_love/03/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/03/index.html) |
 | [001/html_love/04](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/04)                  | HTML   | <img src="001/html_love/04/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/04/index.html) |
 | [001/html_love/05](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/05)                  | HTML   | <img src="001/html_love/05/效果图.jpg" width="200"/> | /                                                                      |
@@ -29,7 +29,10 @@
 
 
 ## 2.资源二（002）
-
+| 代码路径                                                        | 代码类型   | 预览图                                  | 演示                                                                     |
+|-------------------------------------------------------------|--------|--------------------------------------|------------------------------------------------------------------------|
+| [002](https://github.com/Whale-Yu/loveCode/tree/master/002) | HTML   | <img src="002/效果图.png" width="200"/> | [demo](https://whale-yu.github.io/loveCode/002/index.html) |
+[来源:-3D](https://github.com/Kaiser-DMr/-3D?tab=readme-ov-file)
 ## 技术支持
 
 如果在运行python或部署前端代码有任何问题时
