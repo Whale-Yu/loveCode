@@ -4,7 +4,10 @@
 
 此项目旨在收集和分享各种与爱心主题相关的代码示例，包括前端（HTML、CSS、JavaScript）、Python等语言。通过这些代码示例，希望能帮助开发者更好地表达和传递爱心与情感。
 
-## 1.资源一（001/文件夹）
+## 1、资源一（001/文件夹）
+<details>
+<summary>展开查看</summary>
+
 | 代码路径                                                                                                   | 代码类型   | 预览图                              | 演示                                                                     |
 |--------------------------------------------------------------------------------------------------------|--------|----------------------------------|------------------------------------------------------------------------|
 | [001/html_love/01](https://github.com/Whale-Yu/loveCode/tree/master/001/html_love/01)                  | HTML   | <img src="001/html_love/01/效果图.jpg" width="200"/> | [demo](https://whale-yu.github.io/loveCode/001/html_love/01/index.html) |
@@ -27,12 +30,21 @@
 | [001/py_love/情人节表白2.py](https://github.com/Whale-Yu/loveCode/tree/master/001/py_love/情人节表白2.py)             | Python | <img src="001/py_love/情人节表白2.png" width="200"/>   | 下载代码本地运行即可                                                              |
 | [001/py_love/送一朵玫瑰花.py](https://github.com/Whale-Yu/loveCode/tree/master/001/py_love/送一朵玫瑰花.py)             | Python | <img src="001/py_love/送一朵玫瑰花.png" width="200"/>   | 下载代码本地运行即可                                                              |
 
+</details>
 
-## 2.资源二（002）
+## 1、资源一（001/文件夹）
+<details>
+<summary>展开查看</summary>
+
 | 代码路径                                                        | 代码类型   | 预览图                                  | 演示                                                                     |
 |-------------------------------------------------------------|--------|--------------------------------------|------------------------------------------------------------------------|
 | [002](https://github.com/Whale-Yu/loveCode/tree/master/002) | HTML   | <img src="002/效果图.png" width="200"/> | [demo](https://whale-yu.github.io/loveCode/002/index.html) |
+
+</details>
+
 [来源:-3D](https://github.com/Kaiser-DMr/-3D?tab=readme-ov-file)
+
+
 ## 技术支持
 
 如果在运行python或部署前端代码有任何问题时
